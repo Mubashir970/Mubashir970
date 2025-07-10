@@ -1,16 +1,15 @@
-## Hi there 👋
+<!-- Profile Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hello+👋+I'm+Shaikh+Mubashir;DevOps+Learner+%7C+Cloud+Explorer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</div>
 
-<!--
-**Mubashir970/Mubashir970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+🎓 Student & DevOps Enthusiast  
+📍 Based in: India  
+🛠️ Learning: Linux | AWS | Docker | Jenkins | Terraform | GitHub Actions  
+🎯 Goal: Become a proficient DevOps Engineer by 2025  
+📫 Contact: mubashir.your@email.com  
