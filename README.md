@@ -13,3 +13,41 @@
 🛠️ Learning: Linux | AWS | Docker | Jenkins | Terraform | GitHub Actions  
 🎯 Goal: Become a proficient DevOps Engineer by 2025  
 📫 Contact: mubashir.your@email.com  
+
+## 🧰 Tech Stack & Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+  ...
+</p>
+
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mubashir970&show_icons=true&theme=radical" width="47%" />
+  ...
+</p>
+
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINK/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  ...
+</p>
+
+
+## 📂 Featured Projects
+
+- 🚀 [Project 1](https://github.com/...) — Description here.
+- ☁️ [Project 2](https://github.com/...) — Description here.
+
+## 👁️ Visitor Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mubashir970&label=Visitors&color=0e75b6&style=flat" />
+</p>
+
+
