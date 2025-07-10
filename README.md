@@ -42,6 +42,50 @@
       <br><sub>CI/CD Pipelines</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
+      <br><strong>AWS</strong>
+      <br><sub>Cloud Infra</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
+      <br><strong>Kubernetes</strong>
+      <br><sub>Orchestration</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/>
+      <br><strong>Terraform</strong>
+      <br><sub>IaC</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible"/>
+      <br><strong>Ansible</strong>
+      <br><sub>Config Mgmt</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40" alt="Prometheus"/>
+      <br><strong>Prometheus</strong>
+      <br><sub>Monitoring</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" alt="Grafana"/>
+      <br><strong>Grafana</strong>
+      <br><sub>Dashboards</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+      <br><strong>Git</strong>
+      <br><sub>Version Control</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+      <br><strong>GitHub</strong>
+      <br><sub>Actions & Repos</sub>
+    </td>
+  </tr>
 </table>
 
 ---
