@@ -26,7 +26,6 @@
       <br><strong>Linux</strong>
       <br><sub>CLI & Admin</sub>
     </td>
-    ...
   </tr>
 </table>
 
